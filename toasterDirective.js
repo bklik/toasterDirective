@@ -7,7 +7,8 @@
  *  - styleSheetFactory (https://github.com/bklik/styleSheetFactory)
  * 
  * Description:
- * TODO
+ * Control that messages can be sent to, and pops a temporary
+ * dismiss-able, or actionable notification to the user.
 /**********************************************************************/
 angular.module('toasterDirective', ['styleSheetFactory'])
 
